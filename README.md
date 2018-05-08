@@ -1,5 +1,5 @@
-#il datascientist e la smartcity
-versione navigabile dello sketch "Il data scientist e la smartcity" - Trento 2018 
+# il datascientist e la smartcity
+
 
 durante la Smart City Week di Trento 2018 [Sara Serravalle](https://twitter.com/visualsara) ha fatto degli sketch di riassunto di ciò che i relatori raccontavano.
 
