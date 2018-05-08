@@ -7,4 +7,6 @@ Questo lo sketch navigabile del panel "[Il data scientist e la smart city](https
 
 ... e per chi vuole sapere di cosa si raccontava ecco il [video](https://youtu.be/6DMpMLtvO9M)
 
+e qui lo sketch
+
 ![](https://www.smartcityweek.it/wp-content/uploads/2018/03/11-222x300.jpg) ![](https://www.smartcityweek.it/wp-content/uploads/2018/03/12-216x300.jpg)
